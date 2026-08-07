@@ -17,5 +17,5 @@
 - **Delete This Webhook** — Permanently deletes the selected webhook.
 ---
 ```lua
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Front-Evill/devlyx/refs/heads/main/webhook.luau'))()
 ```
