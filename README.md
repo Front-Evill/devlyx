@@ -19,3 +19,28 @@
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Front-Evill/devlyx/refs/heads/main/webhook.luau'))()
 ```
+
+---
+
+# Devlyx ESP Hub
+---
+* Enable ESP — Starts or stops the ESP system.
+* Team Check — Hides ESP on players who are on your team.
+* Wall Check — Only highlights players who are actually visible, instead of always showing through walls.
+---
+* Show Names — Adds the player's name to the tag shown above their head.
+* Show Health — Adds current/max health to the tag.
+* Show Distance — Adds the distance in studs to the tag.
+---
+* ESP Color — Sets the highlight and outline color from a preset list.
+* Max Distance — Sets how far away a player's tag stays visible.
+* Fill Transparency — Controls how see-through the highlight's inner fill is.
+* Outline Transparency — Controls how see-through the highlight's outer outline is.
+---
+* Refresh ESP — Rebuilds ESP on every player using the current settings.
+* Reset to Default — Restores every setting back to its original value.
+* Save Settings — Saves the current configuration to a profile.
+* Load Settings — Loads a previously saved configuration.
+```
+loadstring(game:HttpGet(''))
+```
