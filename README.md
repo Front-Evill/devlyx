@@ -39,6 +39,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Front-Evill/devlyx/re
 * Reset to Default — Restores every setting back to its original value.
 * Save Settings — Saves the current configuration to a profile.
 * Load Settings — Loads a previously saved configuration.
-```
+```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Front-Evill/devlyx/refs/heads/main/esp.lua'))
 ```
