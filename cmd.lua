@@ -1,1 +1,1 @@
-game.Players.PlayerAdded:Coneect(function() Player:Kick('coming son') end)
+game.Players.PlayerAdded:Connect(function(player) player:Kick("coming soon") end)
