@@ -20,8 +20,6 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Front-Evill/devlyx/refs/heads/main/webhook.luau'))()
 ```
 
----
-
 # Devlyx ESP Hub
 ---
 * Enable ESP — Starts or stops the ESP system.
